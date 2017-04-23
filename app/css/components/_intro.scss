@@ -1,0 +1,15 @@
+.container {
+    margin: 0 auto;
+    height: 100%;
+    width: 80%;
+
+    &__title {
+        font-family: 'railway', Arial, Helvetica, sans-serif;
+        font-size: 3em;
+    }
+
+    .list {
+        font-family: 'fabrica', sans-serif;
+        font-size: 1.5em;
+    }
+}

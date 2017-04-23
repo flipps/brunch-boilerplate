@@ -1,0 +1,10 @@
+{
+  "name": "brunch-bower",
+  "devDependencies": {
+    "gsap": "^1.18.5"
+  },
+  "dependencies": {
+    "gsap": "1.18.5",
+    "jquery": "2.1.4"
+  }
+}
