@@ -31,8 +31,8 @@ exports.config = {
 
   plugins: {
     sass: {
+      mode: 'native',
       options: {
-        mode: 'native',
         allowCache: true,
         includePaths: ['app/css']
       }
